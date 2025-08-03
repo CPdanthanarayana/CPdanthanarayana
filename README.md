@@ -7,13 +7,15 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
 
 
 
 👋 Hi, I'm Chamath Poorna Danthanarayana
 
 - 💡 I love learning new programming languages, collaborating on projects, and exploring emerging technologies.
-- 💻 My current skills include: HTML, CSS, Node.js, Laravel, Flutter, Firebase and a bit of Arduino.
+- 💻 My current skills include: HTML, CSS, Node.js, Laravel, Flutter, React, Firebase and a bit of Arduino.
 - 🗄️ I work with MongoDB and MySQL databases.
 - 🤝 Always open to teamwork, new challenges, and contributing to innovative projects.
 
